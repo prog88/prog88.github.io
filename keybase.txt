@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/prog88
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://prog88.github.io
+  * I am prog88 (https://keybase.io/prog88) on keybase.
+  * I have a public key ASBpdeOPB-q1wyPbffpFCGKx8gqzd0SSG25H1gok4weaUgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012006031a2fa2909da10f8ba3955225c159399ae0c53793a3595c76caaec36779880a",
+      "host": "keybase.io",
+      "kid": "01206975e38f07eab5c323db7dfa450862b1f20ab37744921b6e47d60a24e3079a520a",
+      "uid": "8975b74262e0d5a9ae69411c70019b19",
+      "username": "prog88"
+    },
+    "merkle_root": {
+      "ctime": 1596577666,
+      "hash": "213a089455f21118dc0c770a28253ceed3b7c0a33effd1d0798db6b22044206ffa2a81b61c7e9725fdb00cb68bb37d3781b2b32850d7f72b5ee61260cf25ce61",
+      "hash_meta": "951d5cf86fc14eccf6c69be45284891c164222c56f90abdc44b5ebdfa8b47757",
+      "seqno": 17182481
+    },
+    "service": {
+      "entropy": "ru6om4yLC36yXQjA8EopjyfC",
+      "hostname": "prog88.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596577684,
+  "expire_in": 504576000,
+  "prev": "1c02c87c167e8fce2955e3cfa6846506cb195df975c380d9ee27a90de63f7ef4",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaXXjjwfqtcMj2336RQhisfIKs3dEkhtuR9YKJOMHmlIKp3BheWxvYWTESpcCFsQgHALIfBZ+j84pVePPpoRlBssZXfl1w4DZ7iepDeY/fvTEIB6YH2rhgoyNA5C0F6EN+4dmYoDrbOlwZtIzpWfEtKEKAgHCo3NpZ8RA+WlCzrgv5+P3WVX2mHA5AEjWttWKjNAzl6ei8Zqw6mFlHzZGjxl4ueRe0ZzRw5cFhAD1DMVPIsg9pxQI+nDoCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOiZnVyd844xT9JHcPuuFrhjw0WAOrNoIQndgcvR9RX5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/prog88
+
+==================================================================
